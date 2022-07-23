@@ -1,14 +1,12 @@
 ### Adetolab bot 
 
-### Multi Device  [ ❑ 𝗩𝗜𝗣 𝗩𝗘𝗥𝗦𝗜𝗢𝗡 ❑ ]  Unlimited Version (24 hors Activation )
-
+### have fun
 
 
 <img src="https://telegra.ph/file/57e0679dc28177770f449.jpg" alt="nz" width="350"/>
 </p>
 
-
-> [Automated Multi Device whatsapp bot created](https://github.com/whiteshadowofficial) by [Mr.White Shadow](https://github.com/whiteshadowofficial)
+](https://github.com/adetolab)
 
 ----
 
@@ -22,7 +20,7 @@
 
 
 <b><h1>Deploy Now ♨️</b></h1>
-   <a href="https://heroku.com/deploy"><img src="/PicsArt_22-04-15_12-59-28-786.png">
+   <a href="https://heroku.com/deploy"><img 
 <br>
 
 ----
@@ -34,10 +32,8 @@
 
 </br>
 
-<a href="https://github.com/whiteshadowofficial"><img title="Author" src="https://img.shields.io/badge/Author-whiteshadowofficial-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>  
-<a href="https://github.com/whiteshadowofficial"><img title="Stars" src="https://img.shields.io/github/stars/whiteshadowofficial/STEFANIE-MD-WA-BOT?color=54aeff&style=flat-square" /></a>
-<a href="https://github.com/whiteshadowofficial/network/members"><img title="Forks" src="https://img.shields.io/github/forks/whiteshadowofficial/STEFANIE-MD-WA-BOT?color=54aeff&style=flat-square" /></a>
-<a href="https://github.com/whiteshadowofficial/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/whiteshadowofficial/STEFANIE-MD-WA-BOT?label=watchers&color=54aeff&style=flat-square" /></a> <br>
+<a  title="Forks" src="" /></a>
+<a href=""><img title="Watching" src="" /></a> <br>
 
 
 
@@ -58,7 +54,7 @@
 
 ----
 
-> <a href="https://github.com/whiteshadowofficial/Jessi-Setup/blob/main/Features.md"><img src="https://img.shields.io/badge/Jessica-All Futures-FF0190CF?style=for-the-badge&logo=github&logoColor=FF0190CF&link=https://www.youtube.com/c/BOTINDO" /><br>
+> <a href="https://github.com/adetolab/adetola-Setup/blob/main/Features.md"><img src="https://img.shields.io/badge/Jessica-All Futures-FF0190CF?style=for-the-badge&logo=github&logoColor=FF0190CF&link=https://www.youtube.com/c/BOTINDO" /><br>
 
 
   </div>
@@ -86,7 +82,7 @@
 [MrChaby](https://github.com/MrChaby)
 ----
 
-> All photos and names of this project are owned by the first owner.
+> All photos and names of this project are owned by Adetolab 😂🐤
 ----
 > This project was prepared with all his approval.
 ## 👨‍💻 Developers & Contributors 👨‍💻
